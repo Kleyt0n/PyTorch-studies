@@ -1,2 +1,2 @@
-# PyTorch-studies
+# PyTorch Studies
  
